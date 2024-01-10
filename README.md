@@ -16,5 +16,3 @@ This script focuses on implementing a Decision Tree Classifier for a dataset, al
   - `load_dataset(file_path)`: Function to load the dataset.
   - `preprocess_dataset(dataset)`: Function for dataset preprocessing.
   - Additional functions for model training, evaluation, and visualization.
-
-*Note: This script provides a comprehensive approach to applying a Decision Tree Classifier, from data preprocessing to model evaluation and visualization. For detailed usage and code explanations, refer to comments within the script.*
